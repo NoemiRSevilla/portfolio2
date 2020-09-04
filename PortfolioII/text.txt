@@ -1,0 +1,21 @@
+{
+    "workbench.startupEditor":"newUntitledFile",
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions":"top",
+    "editor.formatOnPaste": true,
+    "editor.codeLens": false,
+    "editor.tabSize":4,
+    "emmet.includeLanguages":{"aspnetcorerazor":"html","razor":"html"},
+    "workbench.colorTheme": "Monokai Pro",
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "files.autoSave": "afterDelay",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "workbench.sideBar.location": "right",
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-vscode.csharp"
+    }
+}
